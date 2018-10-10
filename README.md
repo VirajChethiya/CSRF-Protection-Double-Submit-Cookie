@@ -16,6 +16,6 @@ CSRF Protection – Double Submit Cookie
 
 5. Enter the following in URL bar: https://localhost/CSRF2/
 
-6.username : admin  
+6.username : admin
 
-7.password : admin123     
+7.password : admin123
